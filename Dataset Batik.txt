@@ -1,3 +1,1 @@
-dataset batik 
-Roboflow: https://drive.google.com/file/d/1ya_MPdn9_igqH4pOqFRmJqMGSPAaWkin/view?usp=sharing
-CitraBatik: https://drive.google.com/file/d/1vgsdMBrzc8F0D3MRFGNo_UoORmfg60aZ/view?usp=sharing
+link dataset batik : https://drive.google.com/file/d/1Jh8EumXOilphcp2wb1GT3ReFl37WJ2uW/view?usp=sharing
