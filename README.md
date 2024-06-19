@@ -8,3 +8,5 @@ Our ML team members consist of:
 3. Muhamad Meiko Triputra - M315D4KY2249 - Sriwijaya University
 
 Link Dataset (GDrive) : https://drive.google.com/file/d/1yjuT0USeyqQmhoIuboWg9QWVoLgQkgjS/view?usp=sharing
+
+Dokumentation steps:
